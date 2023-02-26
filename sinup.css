@@ -1,0 +1,9 @@
+html,body{
+    text-align:center ;}
+    body{
+        background-image: url('naje.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    
+}

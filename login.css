@@ -1,0 +1,71 @@
+html,body{
+    padding: 20;
+    background-color: orange;
+
+}
+#req {
+    margin-block-end: ;
+    text-align: center;
+}
+
+#navlist {
+    background-color:orange;
+    position: absolute;
+    width: 100%;
+}
+#navlist a {
+    float:left;
+    display: block;
+    color:  aquamarine;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 15px;
+}
+ 
+.navlist-right{
+    float:right;
+}
+
+
+#navlist a:hover {
+    background-color: #ddd;
+    color: black;
+}
+     
+
+.search input[type=text]{
+    width:300px;
+    height:25px;
+    border-radius:25px;
+    border: none;
+}
+     
+.search{
+    float:right;
+    margin:7px;
+}
+     
+.search button{
+    background-color: #ddd;
+    color: #f2f2f2;
+    float: right;
+    padding: 5px 10px;
+    margin-right: 16px;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+}
+#now{
+    width: 100px;
+    float: left;
+}
+    
+#NAS{
+float: inline-end;
+    width: 100px;
+}
+#tec{
+    float: right;
+    width: 100px;
+}
